@@ -9,3 +9,7 @@ Link to Kaggle Competition: https://www.kaggle.com/competitions/amex-default-pre
 ## Private Test Data: 80.2%
 
 ## Public Test Data: 79.3%
+
+
+## Credit for parquet data compression
+AMEX data - integer dtypes - parquet format created by Raddar
